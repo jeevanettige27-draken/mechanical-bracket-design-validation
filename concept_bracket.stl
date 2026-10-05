@@ -1,0 +1,170 @@
+solid mounting_bracket
+  facet normal 0 0 0
+    outer loop
+      vertex 0 0 0
+      vertex 60 50 0
+      vertex 60 0 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 0 0
+      vertex 0 50 0
+      vertex 60 50 0
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 0 5
+      vertex 60 0 5
+      vertex 60 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 0 5
+      vertex 60 50 5
+      vertex 0 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 0 0
+      vertex 60 0 0
+      vertex 60 0 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 0 0
+      vertex 60 0 5
+      vertex 0 0 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 0 0
+      vertex 60 50 0
+      vertex 60 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 0 0
+      vertex 60 50 5
+      vertex 60 0 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 50 0
+      vertex 0 50 0
+      vertex 0 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 50 0
+      vertex 0 50 5
+      vertex 60 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 50 0
+      vertex 0 0 0
+      vertex 0 0 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 50 0
+      vertex 0 0 5
+      vertex 0 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 45 5
+      vertex 60 50 5
+      vertex 60 45 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 45 5
+      vertex 0 50 5
+      vertex 60 50 5
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 45 45
+      vertex 60 45 45
+      vertex 60 50 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 45 45
+      vertex 60 50 45
+      vertex 0 50 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 45 5
+      vertex 60 45 5
+      vertex 60 45 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 45 5
+      vertex 60 45 45
+      vertex 0 45 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 45 5
+      vertex 60 50 5
+      vertex 60 50 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 45 5
+      vertex 60 50 45
+      vertex 60 45 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 50 5
+      vertex 0 50 5
+      vertex 0 50 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 60 50 5
+      vertex 0 50 45
+      vertex 60 50 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 50 5
+      vertex 0 45 5
+      vertex 0 45 45
+    endloop
+  endfacet
+  facet normal 0 0 0
+    outer loop
+      vertex 0 50 5
+      vertex 0 45 45
+      vertex 0 50 45
+    endloop
+  endfacet
+endsolid mounting_bracket

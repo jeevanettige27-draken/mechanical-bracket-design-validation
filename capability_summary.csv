@@ -1,0 +1,5 @@
+feature,nominal,lsl,usl,mean,stdev,cp,metric,index,status
+hole_diameter_mm,10.0,9.9,10.1,10.013,0.0174,1.9147,Cpk,1.6658,PASS
+hole_spacing_mm,40.0,39.85,40.15,40.0219,0.0274,1.826,Cpk,1.5597,PASS
+base_width_mm,60.0,59.8,60.2,59.9897,0.0539,1.2376,Cpk,1.1738,REVIEW
+verticality_mm,0.0,,0.2,0.0784,0.0231,,Cpu,1.7569,PASS
