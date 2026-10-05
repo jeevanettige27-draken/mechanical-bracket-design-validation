@@ -54,7 +54,7 @@ Requires Python 3 with `pandas`.
 
 Hole diameter and hole spacing meet the simulated Cpk target of 1.33, and verticality meets the one-sided Cpu target. Base width does not yet meet the target, creating a realistic improvement task: review bend allowance, improve fixture repeatability, then repeat first-article inspection. Before claiming real validation, the bracket must be manufactured, inspected with calibrated equipment, and load-tested.
 
-## Interview explanation
+## Explanation
 
 “I developed this coursework-based portfolio project to apply concepts from MCE 516 Production Planning and Control. I defined the bracket requirements and drawing, built a simulated five-build inspection plan, calculated capability, and used the result to identify base-width variation as the main manufacturing risk. I would replace the simulated data with measured first-article results during physical prototyping.”
 
